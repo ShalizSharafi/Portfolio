@@ -1,6 +1,6 @@
 #  Avada Portfolio 
 
-🔗 [Live Demo]() 🪄
+🔗 [Live Demo](https://shalizsharafi.github.io/Portfolio/) 🪄
 
 ---
 
