@@ -38,6 +38,11 @@ main {
       min-height: 100px;
       border-radius: 10px;
       padding: 20px;
+      &:hover{
+        transition: transform .4s ease;
+        transform: scale(.9);
+       
+      }
       &:first-of-type {
         /* align-content: start; */
         background-color: var(--white);
